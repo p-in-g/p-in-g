@@ -1,6 +1,6 @@
-# Hey!! I am Paridhi:
-As enthusistic as i sound in that 'hey' , it helps me to keep up a good attitude while working under pressure..Phew!!
-I am Currently pursuing B.tech(CSE) and also a part of Product development journey powered by Apple and Infosys. I am looking for the people who started off late but are positive to catch the pace just like i am.
+# Hey!! I am Paridhi:<br>
+As enthusistic as i sound in that 'hey' , it helps me to keep up a good attitude while working under pressure..Phew!!<br>
+I am Currently pursuing B.tech(CSE) and also a part of Product development journey powered by Apple and Infosys.<br> I am looking for the people who started off late but are positive to catch the pace just like i am.
 
 
 ## 🌐 Socials:
