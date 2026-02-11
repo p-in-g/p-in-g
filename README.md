@@ -1,6 +1,6 @@
 # Hey!! I am Paridhi:<br>
 As enthusistic as i sound in that 'hey' , it helps me to keep up a good attitude while working under pressure..Phew!!<br>
-I am Currently pursuing B.tech(CSE) and also a part of Product development journey powered by Apple and Infosys.<br> I hae recently started my journey of Machine Learning and AI. I have  abasic knowledge of Python and have worked earlier on platforms like TensorFlow and Scikit-Learn.
+I am Currently pursuing B.tech(CSE) and also a part of Product development journey powered by Apple and Infosys.<br> I have recently started my journey of Machine Learning and AI. I have a basic knowledge of Python and have worked earlier on platforms like TensorFlow and Scikit-Learn. It's a long way to go.
 
 
 ## 🌐 Socials:
